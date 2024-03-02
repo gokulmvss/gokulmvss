@@ -1,13 +1,15 @@
 
 <h1 align="center">Hello there👋,Gokul here</h1>
 <!--><h3 align="left">I am Gokul Mallem, an aspiring engineering student with a keen interest in exploring the vast world of technologies in the modern and future times.</h3> -->
-# 💫 About Me:
+# A bit About Me:
 I am Gokul Mallem, an aspiring engineering student with a keen interest in exploring the vast world of technologies in the modern and future times.
 
+Currently working in the fields of machine learning and data science and aim to work in the fields of NLP and image processing. Also started working in the field of web developement and aim to find my way through this vast world of technology.d 45                                                                  5t
 
-- 🌱 I’m currently learning **python for machine learning the basics of web developement.**
+Currently working on my portfolio page which wil be out soon, meanwhile check out my work in the repositories.
 
-- 📫 How to reach me **mallemgokul@gmail.com**
+I'm open to collaborate and work on new areas and explore new technologies. Connect with me:
+📫**mallemgokul@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
