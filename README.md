@@ -13,6 +13,7 @@ I'm open to collaborate and work on new areas and explore new technologies.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <p>mail : mallemgokul@gmail.com </p>
 <a href="https://www.linkedin.com/in/gokul-mallem-vss-b99461269/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gokul-mallem-vss-b99461269/" height="30" width="40" /></a>
 </p>
 
