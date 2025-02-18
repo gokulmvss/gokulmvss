@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to explore and collaborate on **opportunities to showcase my abilities and unlock new possibilities.**
 
-- 👨‍💻 All of my projects are available at [My portfoltio website which is coming soon.](My portfoltio website which is coming soon.)
-
 - 📫 How to reach me **mallemgokul@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
